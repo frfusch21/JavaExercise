@@ -6,6 +6,7 @@ public class Main {
         //Print dengan newline
         System.out.println("Nama saya Farah");
         System.out.print("Ini tanpa spasi");
+        System.out.println("hohohoho");
 
         boolean flag;
         //Looping dari 1 sampai 5
